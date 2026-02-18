@@ -1,6 +1,5 @@
-# Change these first
-owner: maksimus12 # Your GitHub organization or username, where this repository lives
-repo: me-upptime # The name of this repository
+owner: maksimus12
+repo: me-upptime
 
 sites:
   - name: Google
@@ -9,27 +8,15 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # baseUrl: /your-repo-name
-  logoUrl: /me-upptime
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /me-upptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: ME Upptime
+  introTitle: "**ME Upptime** — мониторинг доступности моих сайтов"
+  introMessage: Эта страница статуса использует данные в реальном времени из нашего [GitHub репозитория](https://github.com/maksimus12/me-upptime).
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/maksimus12/me-upptime
