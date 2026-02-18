@@ -2,19 +2,19 @@ owner: maksimus12
 repo: me-upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Mission Eurasia Field
+    url: https://missioneurasiafield.org/
+  - name: Mission in Profession (Landing)
+    url: https://pro.missioneurasiafield.org/
+  - name: Empower (Landing)
+    url: https://empower.missioneurasiafield.org/
 
 status-website:
   baseUrl: /me-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ME Upptime
   introTitle: "**ME Upptime** — мониторинг доступности моих сайтов"
-  introMessage: Эта страница статуса использует данные в реальном времени из нашего [GitHub репозитория](https://github.com/maksimus12/me-upptime).
+  introMessage: Hello lets see our sites uptime.
   navbar:
     - title: Status
       href: /
