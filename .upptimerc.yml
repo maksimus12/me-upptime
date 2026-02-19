@@ -13,10 +13,10 @@ status-website:
   baseUrl: /me-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ME Upptime
-  introTitle: "**ME Upptime** — мониторинг доступности моих сайтов"
+  introTitle: "**ME Upptime** — мониторинг доступности сайтов"
   introMessage: Hello lets see our sites uptime.
   navbar:
     - title: Status
-      href: /
+      href: /me-upptime
     - title: GitHub
       href: https://github.com/maksimus12/me-upptime
