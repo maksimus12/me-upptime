@@ -4,19 +4,19 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1465,
-    "timeDay": 1465,
-    "timeWeek": 1465,
-    "timeMonth": 1465,
-    "timeYear": 1465,
+    "status": "down",
+    "uptime": "80.90%",
+    "uptimeDay": "80.90%",
+    "uptimeWeek": "80.90%",
+    "uptimeMonth": "80.90%",
+    "uptimeYear": "80.90%",
+    "time": 1239,
+    "timeDay": 1239,
+    "timeWeek": 1239,
+    "timeMonth": 1239,
+    "timeYear": 1239,
     "dailyMinutesDown": {
-      "2026-02-19": 0
+      "2026-02-19": 75
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "80.90%",
+    "uptimeDay": "80.90%",
+    "uptimeWeek": "80.90%",
+    "uptimeMonth": "80.90%",
+    "uptimeYear": "80.90%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-19": 0
+      "2026-02-19": 75
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "80.91%",
+    "uptimeDay": "80.91%",
+    "uptimeWeek": "80.91%",
+    "uptimeMonth": "80.91%",
+    "uptimeYear": "80.91%",
     "time": 1113,
     "timeDay": 1113,
     "timeWeek": 1113,
     "timeMonth": 1113,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2026-02-19": 0
+      "2026-02-19": 75
     }
   }
 ]
