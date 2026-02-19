@@ -4,10 +4,16 @@ repo: me-upptime
 sites:
   - name: Mission Eurasia Field
     url: https://missioneurasiafield.org/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   - name: Mission in Profession (Landing)
     url: https://pro.missioneurasiafield.org/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   - name: Empower (Landing)
     url: https://empower.missioneurasiafield.org/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 status-website:
   baseUrl: /me-upptime
