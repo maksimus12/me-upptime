@@ -4,18 +4,19 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "up",
-    "uptime": "93.69%",
-    "uptimeDay": "95.63%",
+    "status": "down",
+    "uptime": "93.77%",
+    "uptimeDay": "95.62%",
     "uptimeWeek": "92.41%",
-    "uptimeMonth": "93.31%",
-    "uptimeYear": "93.69%",
-    "time": 849,
-    "timeDay": 699,
-    "timeWeek": 840,
-    "timeMonth": 837,
-    "timeYear": 849,
+    "uptimeMonth": "93.35%",
+    "uptimeYear": "93.77%",
+    "time": 848,
+    "timeDay": 603,
+    "timeWeek": 829,
+    "timeMonth": 835,
+    "timeYear": 848,
     "dailyMinutesDown": {
+      "2026-03-23": 0,
       "2026-03-22": 63,
       "2026-03-21": 65,
       "2026-03-20": 24,
@@ -39,8 +40,7 @@
       "2026-03-02": 183,
       "2026-03-01": 37,
       "2026-02-28": 81,
-      "2026-02-27": 74,
-      "2026-02-26": 20
+      "2026-02-27": 74
     }
   },
   {
@@ -48,18 +48,19 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "up",
-    "uptime": "93.69%",
-    "uptimeDay": "95.63%",
+    "status": "down",
+    "uptime": "93.76%",
+    "uptimeDay": "95.62%",
     "uptimeWeek": "92.40%",
-    "uptimeMonth": "93.30%",
-    "uptimeYear": "93.69%",
+    "uptimeMonth": "93.35%",
+    "uptimeYear": "93.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-03-23": 0,
       "2026-03-22": 63,
       "2026-03-21": 65,
       "2026-03-20": 24,
@@ -83,8 +84,7 @@
       "2026-03-02": 183,
       "2026-03-01": 37,
       "2026-02-28": 82,
-      "2026-02-27": 74,
-      "2026-02-26": 20
+      "2026-02-27": 74
     }
   },
   {
@@ -92,18 +92,19 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
-    "uptime": "92.12%",
-    "uptimeDay": "95.63%",
+    "status": "down",
+    "uptime": "92.23%",
+    "uptimeDay": "95.61%",
     "uptimeWeek": "92.40%",
-    "uptimeMonth": "91.63%",
-    "uptimeYear": "92.12%",
+    "uptimeMonth": "91.71%",
+    "uptimeYear": "92.23%",
     "time": 537,
-    "timeDay": 450,
-    "timeWeek": 473,
-    "timeMonth": 536,
+    "timeDay": 429,
+    "timeWeek": 470,
+    "timeMonth": 535,
     "timeYear": 537,
     "dailyMinutesDown": {
+      "2026-03-23": 0,
       "2026-03-22": 63,
       "2026-03-21": 65,
       "2026-03-20": 24,
@@ -127,7 +128,7 @@
       "2026-03-02": 184,
       "2026-03-01": 52,
       "2026-02-28": 82,
-      "2026-02-27": 74
+      "2026-02-27": 41
     }
   }
 ]
