@@ -4,17 +4,17 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "up",
-    "uptime": "94.61%",
+    "status": "down",
+    "uptime": "94.67%",
     "uptimeDay": "96.17%",
     "uptimeWeek": "96.21%",
     "uptimeMonth": "92.72%",
-    "uptimeYear": "94.61%",
-    "time": 839,
-    "timeDay": 617,
-    "timeWeek": 686,
-    "timeMonth": 813,
-    "timeYear": 839,
+    "uptimeYear": "94.67%",
+    "time": 837,
+    "timeDay": 451,
+    "timeWeek": 653,
+    "timeMonth": 810,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2026-04-06": 55,
       "2026-04-03": 119,
@@ -47,7 +47,7 @@
       "2026-03-05": 83,
       "2026-03-04": 74,
       "2026-03-03": 175,
-      "2026-03-02": 71
+      "2026-03-02": 46
     }
   },
   {
@@ -55,12 +55,12 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "up",
-    "uptime": "94.61%",
-    "uptimeDay": "96.17%",
+    "status": "down",
+    "uptime": "94.67%",
+    "uptimeDay": "96.16%",
     "uptimeWeek": "96.21%",
     "uptimeMonth": "92.72%",
-    "uptimeYear": "94.61%",
+    "uptimeYear": "94.67%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -98,7 +98,7 @@
       "2026-03-05": 83,
       "2026-03-04": 74,
       "2026-03-03": 175,
-      "2026-03-02": 71
+      "2026-03-02": 46
     }
   },
   {
@@ -106,14 +106,14 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
-    "uptime": "93.52%",
-    "uptimeDay": "96.17%",
+    "status": "down",
+    "uptime": "93.58%",
+    "uptimeDay": "96.16%",
     "uptimeWeek": "96.21%",
     "uptimeMonth": "92.71%",
-    "uptimeYear": "93.52%",
+    "uptimeYear": "93.58%",
     "time": 546,
-    "timeDay": 373,
+    "timeDay": 418,
     "timeWeek": 507,
     "timeMonth": 497,
     "timeYear": 546,
@@ -149,7 +149,7 @@
       "2026-03-05": 83,
       "2026-03-04": 808,
       "2026-03-03": 175,
-      "2026-03-02": 71
+      "2026-03-02": 46
     }
   }
 ]
