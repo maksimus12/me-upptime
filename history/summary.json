@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
     "status": "up",
-    "uptime": "95.35%",
+    "uptime": "95.36%",
     "uptimeDay": "83.06%",
-    "uptimeWeek": "86.99%",
+    "uptimeWeek": "87.35%",
     "uptimeMonth": "91.51%",
-    "uptimeYear": "95.35%",
+    "uptimeYear": "95.36%",
     "time": 744,
     "timeDay": 310,
-    "timeWeek": 271,
+    "timeWeek": 273,
     "timeMonth": 547,
     "timeYear": 744,
     "dailyMinutesDown": {
@@ -56,12 +56,12 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "up",
-    "uptime": "95.19%",
-    "uptimeDay": "69.55%",
-    "uptimeWeek": "85.05%",
+    "status": "down",
+    "uptime": "95.26%",
+    "uptimeDay": "69.54%",
+    "uptimeWeek": "85.41%",
     "uptimeMonth": "91.15%",
-    "uptimeYear": "95.19%",
+    "uptimeYear": "95.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -100,7 +100,7 @@
       "2026-03-21": 65,
       "2026-03-20": 24,
       "2026-03-19": 71,
-      "2026-03-18": 285
+      "2026-03-18": 224
     }
   },
   {
@@ -108,17 +108,17 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
-    "uptime": "95.18%",
-    "uptimeDay": "69.55%",
-    "uptimeWeek": "85.05%",
+    "status": "down",
+    "uptime": "95.25%",
+    "uptimeDay": "69.53%",
+    "uptimeWeek": "85.41%",
     "uptimeMonth": "91.15%",
-    "uptimeYear": "95.18%",
-    "time": 573,
-    "timeDay": 504,
-    "timeWeek": 553,
+    "uptimeYear": "95.25%",
+    "time": 572,
+    "timeDay": 502,
+    "timeWeek": 550,
     "timeMonth": 621,
-    "timeYear": 573,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2026-04-24": 343,
       "2026-04-23": 207,
@@ -152,7 +152,7 @@
       "2026-03-21": 65,
       "2026-03-20": 24,
       "2026-03-19": 71,
-      "2026-03-18": 285
+      "2026-03-18": 224
     }
   }
 ]
