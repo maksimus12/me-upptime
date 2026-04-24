@@ -1,7 +1,7 @@
 url: https://empower.missioneurasiafield.org/
-status: up
-code: 200
-responseTime: 859
-lastUpdated: 2026-04-24T10:38:51.158Z
+status: down
+code: 429
+responseTime: 357
+lastUpdated: 2026-04-24T11:09:11.127Z
 startTime: 2026-02-18T18:43:00.805Z
 generator: Upptime <https://github.com/upptime/upptime>
