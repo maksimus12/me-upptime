@@ -13,7 +13,7 @@
     "time": 737,
     "timeDay": 254,
     "timeWeek": 361,
-    "timeMonth": 539,
+    "timeMonth": 532,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2026-04-26": 96,
@@ -96,17 +96,17 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
-    "uptime": "95.53%",
-    "uptimeDay": "57.53%",
-    "uptimeWeek": "73.77%",
-    "uptimeMonth": "90.14%",
-    "uptimeYear": "95.53%",
-    "time": 574,
-    "timeDay": 686,
-    "timeWeek": 600,
-    "timeMonth": 615,
-    "timeYear": 574,
+    "status": "down",
+    "uptime": "95.58%",
+    "uptimeDay": "57.52%",
+    "uptimeWeek": "73.76%",
+    "uptimeMonth": "90.22%",
+    "uptimeYear": "95.58%",
+    "time": 573,
+    "timeDay": 677,
+    "timeWeek": 597,
+    "timeMonth": 609,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2026-04-26": 613,
       "2026-04-25": 622,
@@ -126,7 +126,7 @@
       "2026-04-10": 31,
       "2026-04-09": 105,
       "2026-04-08": 53,
-      "2026-04-07": 63
+      "2026-04-07": 24
     }
   }
 ]
