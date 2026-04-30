@@ -4,18 +4,19 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "up",
-    "uptime": "95.40%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.43%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "89.63%",
     "uptimeMonth": "90.82%",
-    "uptimeYear": "95.40%",
-    "time": 729,
-    "timeDay": 315,
-    "timeWeek": 386,
-    "timeMonth": 509,
-    "timeYear": 729,
+    "uptimeYear": "95.43%",
+    "time": 728,
+    "timeDay": 271,
+    "timeWeek": 382,
+    "timeMonth": 507,
+    "timeYear": 728,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-04-28": 26,
       "2026-04-27": 280,
       "2026-04-26": 96,
@@ -49,8 +50,7 @@
       "2026-03-26": 226,
       "2026-03-23": 86,
       "2026-03-22": 63,
-      "2026-03-21": 65,
-      "2026-03-20": 24
+      "2026-03-21": 65
     }
   },
   {
@@ -58,18 +58,19 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "up",
-    "uptime": "95.54%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.56%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "76.93%",
-    "uptimeMonth": "89.69%",
-    "uptimeYear": "95.54%",
+    "uptimeMonth": "89.75%",
+    "uptimeYear": "95.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-04-28": 26,
       "2026-04-27": 365,
       "2026-04-26": 569,
@@ -89,8 +90,7 @@
       "2026-04-11": 77,
       "2026-04-10": 31,
       "2026-04-09": 105,
-      "2026-04-08": 53,
-      "2026-04-07": 24
+      "2026-04-08": 53
     }
   },
   {
@@ -98,18 +98,19 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
-    "uptime": "95.48%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.52%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "75.66%",
-    "uptimeMonth": "89.57%",
-    "uptimeYear": "95.48%",
+    "uptimeMonth": "89.65%",
+    "uptimeYear": "95.52%",
     "time": 573,
-    "timeDay": 782,
-    "timeWeek": 566,
-    "timeMonth": 611,
+    "timeDay": 509,
+    "timeWeek": 563,
+    "timeMonth": 610,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-04-28": 26,
       "2026-04-27": 322,
       "2026-04-26": 626,
@@ -128,7 +129,7 @@
       "2026-04-12": 318,
       "2026-04-11": 78,
       "2026-04-10": 31,
-      "2026-04-09": 105
+      "2026-04-09": 72
     }
   }
 ]
