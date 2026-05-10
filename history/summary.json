@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
     "status": "up",
-    "uptime": "96.28%",
+    "uptime": "96.30%",
     "uptimeDay": "92.65%",
     "uptimeWeek": "95.71%",
     "uptimeMonth": "91.30%",
-    "uptimeYear": "96.28%",
+    "uptimeYear": "96.30%",
     "time": 697,
     "timeDay": 284,
     "timeWeek": 241,
@@ -54,19 +54,19 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "up",
-    "uptime": "95.92%",
-    "uptimeDay": "88.64%",
+    "status": "down",
+    "uptime": "95.96%",
+    "uptimeDay": "88.60%",
     "uptimeWeek": "92.79%",
-    "uptimeMonth": "89.23%",
-    "uptimeYear": "95.92%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "95.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-10": 60,
+      "2026-05-10": 61,
       "2026-05-09": 168,
       "2026-05-08": 86,
       "2026-05-07": 103,
@@ -90,7 +90,7 @@
       "2026-04-17": 39,
       "2026-04-15": 160,
       "2026-04-14": 183,
-      "2026-04-13": 37
+      "2026-04-13": 5
     }
   },
   {
@@ -98,16 +98,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
-    "uptime": "95.96%",
-    "uptimeDay": "88.73%",
+    "status": "down",
+    "uptime": "96.01%",
+    "uptimeDay": "88.72%",
     "uptimeWeek": "92.83%",
-    "uptimeMonth": "89.34%",
-    "uptimeYear": "95.96%",
+    "uptimeMonth": "89.44%",
+    "uptimeYear": "96.01%",
     "time": 576,
-    "timeDay": 430,
-    "timeWeek": 659,
-    "timeMonth": 625,
+    "timeDay": 405,
+    "timeWeek": 646,
+    "timeMonth": 623,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2026-05-10": 60,
@@ -132,8 +132,7 @@
       "2026-04-19": 92,
       "2026-04-18": 276,
       "2026-04-17": 39,
-      "2026-04-15": 160,
-      "2026-04-14": 47
+      "2026-04-15": 160
     }
   }
 ]
