@@ -6,12 +6,12 @@
     "slug": "mission-eurasia-field",
     "status": "up",
     "uptime": "96.69%",
-    "uptimeDay": "92.06%",
+    "uptimeDay": "94.33%",
     "uptimeWeek": "96.44%",
     "uptimeMonth": "94.18%",
     "uptimeYear": "96.69%",
     "time": 660,
-    "timeDay": 110,
+    "timeDay": 107,
     "timeWeek": 202,
     "timeMonth": 284,
     "timeYear": 660,
@@ -59,19 +59,19 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "up",
-    "uptime": "96.24%",
-    "uptimeDay": "82.63%",
-    "uptimeWeek": "92.69%",
+    "status": "down",
+    "uptime": "96.29%",
+    "uptimeDay": "84.85%",
+    "uptimeWeek": "92.68%",
     "uptimeMonth": "88.76%",
-    "uptimeYear": "96.24%",
+    "uptimeYear": "96.29%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-23": 207,
+      "2026-05-23": 208,
       "2026-05-22": 44,
       "2026-05-21": 18,
       "2026-05-20": 97,
@@ -99,7 +99,7 @@
       "2026-04-26": 569,
       "2026-04-25": 508,
       "2026-04-24": 649,
-      "2026-04-23": 207
+      "2026-04-23": 143
     }
   },
   {
@@ -107,16 +107,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
-    "uptime": "96.27%",
-    "uptimeDay": "82.73%",
-    "uptimeWeek": "92.74%",
-    "uptimeMonth": "88.50%",
-    "uptimeYear": "96.27%",
+    "status": "down",
+    "uptime": "96.31%",
+    "uptimeDay": "84.96%",
+    "uptimeWeek": "92.73%",
+    "uptimeMonth": "88.61%",
+    "uptimeYear": "96.31%",
     "time": 563,
     "timeDay": 335,
-    "timeWeek": 451,
-    "timeMonth": 539,
+    "timeWeek": 443,
+    "timeMonth": 537,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2026-05-23": 206,
@@ -147,7 +147,7 @@
       "2026-04-26": 626,
       "2026-04-25": 622,
       "2026-04-24": 650,
-      "2026-04-23": 50
+      "2026-04-23": 2
     }
   }
 ]
