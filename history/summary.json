@@ -4,17 +4,17 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
-    "uptime": "95.80%",
-    "uptimeDay": "62.67%",
-    "uptimeWeek": "75.62%",
-    "uptimeMonth": "86.93%",
-    "uptimeYear": "95.80%",
-    "time": 585,
-    "timeDay": 175,
-    "timeWeek": 199,
+    "status": "up",
+    "uptime": "95.71%",
+    "uptimeDay": "53.73%",
+    "uptimeWeek": "74.24%",
+    "uptimeMonth": "86.62%",
+    "uptimeYear": "95.71%",
+    "time": 584,
+    "timeDay": 179,
+    "timeWeek": 198,
     "timeMonth": 201,
-    "timeYear": 585,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2026-04-26": 50,
       "2026-04-27": 280,
@@ -58,7 +58,7 @@
       "2026-06-09": 408,
       "2026-06-10": 95,
       "2026-06-11": 656,
-      "2026-06-12": 253
+      "2026-06-12": 392
     }
   },
   {
@@ -66,12 +66,12 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
-    "uptime": "95.60%",
-    "uptimeDay": "58.08%",
-    "uptimeWeek": "72.44%",
-    "uptimeMonth": "84.17%",
-    "uptimeYear": "95.60%",
+    "status": "up",
+    "uptime": "95.51%",
+    "uptimeDay": "49.14%",
+    "uptimeWeek": "71.07%",
+    "uptimeMonth": "83.85%",
+    "uptimeYear": "95.51%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -111,7 +111,7 @@
       "2026-06-09": 501,
       "2026-06-10": 95,
       "2026-06-11": 654,
-      "2026-06-12": 321
+      "2026-06-12": 459
     }
   },
   {
@@ -119,16 +119,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
-    "uptime": "95.61%",
-    "uptimeDay": "58.17%",
-    "uptimeWeek": "72.51%",
-    "uptimeMonth": "84.22%",
-    "uptimeYear": "95.61%",
+    "status": "up",
+    "uptime": "95.53%",
+    "uptimeDay": "49.22%",
+    "uptimeWeek": "71.13%",
+    "uptimeMonth": "83.90%",
+    "uptimeYear": "95.53%",
     "time": 536,
-    "timeDay": 349,
-    "timeWeek": 383,
-    "timeMonth": 415,
+    "timeDay": 394,
+    "timeWeek": 386,
+    "timeMonth": 416,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2026-05-10": 89,
@@ -164,7 +164,7 @@
       "2026-06-09": 501,
       "2026-06-10": 94,
       "2026-06-11": 653,
-      "2026-06-12": 319
+      "2026-06-12": 458
     }
   }
 ]
