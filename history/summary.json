@@ -4,14 +4,14 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
-    "uptime": "95.52%",
-    "uptimeDay": "80.27%",
-    "uptimeWeek": "72.11%",
-    "uptimeMonth": "83.49%",
-    "uptimeYear": "95.52%",
+    "status": "up",
+    "uptime": "95.47%",
+    "uptimeDay": "73.11%",
+    "uptimeWeek": "71.09%",
+    "uptimeMonth": "83.25%",
+    "uptimeYear": "95.47%",
     "time": 558,
-    "timeDay": 227,
+    "timeDay": 221,
     "timeWeek": 189,
     "timeMonth": 199,
     "timeYear": 558,
@@ -50,7 +50,7 @@
       "2026-06-15": 339,
       "2026-06-16": 309,
       "2026-06-17": 349,
-      "2026-06-18": 159
+      "2026-06-18": 262
     }
   },
   {
@@ -58,12 +58,12 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
-    "uptime": "95.24%",
-    "uptimeDay": "80.34%",
-    "uptimeWeek": "68.76%",
-    "uptimeMonth": "81.30%",
-    "uptimeYear": "95.24%",
+    "status": "up",
+    "uptime": "95.18%",
+    "uptimeDay": "73.17%",
+    "uptimeWeek": "67.74%",
+    "uptimeMonth": "81.07%",
+    "uptimeYear": "95.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -99,7 +99,7 @@
       "2026-06-15": 472,
       "2026-06-16": 308,
       "2026-06-17": 348,
-      "2026-06-18": 158
+      "2026-06-18": 262
     }
   },
   {
@@ -107,14 +107,14 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
-    "uptime": "95.25%",
-    "uptimeDay": "80.40%",
-    "uptimeWeek": "68.83%",
-    "uptimeMonth": "81.35%",
-    "uptimeYear": "95.25%",
+    "status": "up",
+    "uptime": "95.20%",
+    "uptimeDay": "73.24%",
+    "uptimeWeek": "67.81%",
+    "uptimeMonth": "81.11%",
+    "uptimeYear": "95.20%",
     "time": 526,
-    "timeDay": 361,
+    "timeDay": 365,
     "timeWeek": 369,
     "timeMonth": 391,
     "timeYear": 526,
@@ -148,7 +148,7 @@
       "2026-06-15": 472,
       "2026-06-16": 308,
       "2026-06-17": 347,
-      "2026-06-18": 156
+      "2026-06-18": 259
     }
   }
 ]
