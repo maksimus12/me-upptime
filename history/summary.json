@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
     "status": "down",
-    "uptime": "95.37%",
-    "uptimeDay": "94.67%",
-    "uptimeWeek": "74.78%",
-    "uptimeMonth": "80.93%",
-    "uptimeYear": "95.37%",
+    "uptime": "95.35%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "74.49%",
+    "uptimeMonth": "80.85%",
+    "uptimeYear": "95.35%",
     "time": 535,
     "timeDay": 182,
-    "timeWeek": 171,
+    "timeWeek": 173,
     "timeMonth": 192,
     "timeYear": 535,
     "dailyMinutesDown": {
@@ -39,7 +39,8 @@
       "2026-06-20": 481,
       "2026-06-21": 468,
       "2026-06-22": 242,
-      "2026-06-23": 77
+      "2026-06-23": 83,
+      "2026-06-24": 27
     }
   },
   {
@@ -48,11 +49,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
     "status": "down",
-    "uptime": "95.15%",
-    "uptimeDay": "94.70%",
-    "uptimeWeek": "73.56%",
-    "uptimeMonth": "80.05%",
-    "uptimeYear": "95.15%",
+    "uptime": "95.14%",
+    "uptimeDay": "92.41%",
+    "uptimeWeek": "73.27%",
+    "uptimeMonth": "79.97%",
+    "uptimeYear": "95.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -79,7 +80,8 @@
       "2026-06-20": 480,
       "2026-06-21": 502,
       "2026-06-22": 242,
-      "2026-06-23": 76
+      "2026-06-23": 82,
+      "2026-06-24": 27
     }
   },
   {
@@ -88,14 +90,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
     "status": "down",
-    "uptime": "95.16%",
-    "uptimeDay": "94.74%",
-    "uptimeWeek": "73.63%",
-    "uptimeMonth": "80.10%",
-    "uptimeYear": "95.16%",
+    "uptime": "95.15%",
+    "uptimeDay": "92.45%",
+    "uptimeWeek": "73.34%",
+    "uptimeMonth": "80.02%",
+    "uptimeYear": "95.15%",
     "time": 514,
     "timeDay": 322,
-    "timeWeek": 324,
+    "timeWeek": 328,
     "timeMonth": 371,
     "timeYear": 514,
     "dailyMinutesDown": {
@@ -119,7 +121,8 @@
       "2026-06-20": 478,
       "2026-06-21": 501,
       "2026-06-22": 241,
-      "2026-06-23": 76
+      "2026-06-23": 82,
+      "2026-06-24": 27
     }
   }
 ]
