@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
     "status": "down",
-    "uptime": "96.15%",
-    "uptimeDay": "92.50%",
+    "uptime": "96.12%",
+    "uptimeDay": "88.32%",
     "uptimeWeek": "89.65%",
-    "uptimeMonth": "83.51%",
-    "uptimeYear": "96.15%",
+    "uptimeMonth": "83.37%",
+    "uptimeYear": "96.12%",
     "time": 524,
     "timeDay": 162,
     "timeWeek": 208,
-    "timeMonth": 197,
+    "timeMonth": 196,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2026-06-05": 85,
@@ -39,7 +39,8 @@
       "2026-06-25": 42,
       "2026-06-26": 317,
       "2026-06-27": 179,
-      "2026-06-28": 108
+      "2026-06-28": 136,
+      "2026-06-29": 32
     }
   },
   {
@@ -48,11 +49,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
     "status": "down",
-    "uptime": "96.00%",
-    "uptimeDay": "92.55%",
+    "uptime": "95.97%",
+    "uptimeDay": "88.38%",
     "uptimeWeek": "89.69%",
-    "uptimeMonth": "82.88%",
-    "uptimeYear": "96.00%",
+    "uptimeMonth": "82.74%",
+    "uptimeYear": "95.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -81,7 +82,8 @@
       "2026-06-25": 42,
       "2026-06-26": 317,
       "2026-06-27": 178,
-      "2026-06-28": 107
+      "2026-06-28": 136,
+      "2026-06-29": 32
     }
   },
   {
@@ -90,15 +92,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
     "status": "down",
-    "uptime": "96.01%",
-    "uptimeDay": "92.59%",
+    "uptime": "95.98%",
+    "uptimeDay": "88.42%",
     "uptimeWeek": "89.73%",
-    "uptimeMonth": "82.92%",
-    "uptimeYear": "96.01%",
+    "uptimeMonth": "82.79%",
+    "uptimeYear": "95.98%",
     "time": 510,
     "timeDay": 321,
     "timeWeek": 358,
-    "timeMonth": 369,
+    "timeMonth": 367,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2026-06-06": 208,
@@ -123,7 +125,8 @@
       "2026-06-25": 41,
       "2026-06-26": 316,
       "2026-06-27": 178,
-      "2026-06-28": 106
+      "2026-06-28": 134,
+      "2026-06-29": 32
     }
   }
 ]
