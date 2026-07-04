@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
     "status": "down",
-    "uptime": "96.24%",
-    "uptimeDay": "94.94%",
-    "uptimeWeek": "89.26%",
-    "uptimeMonth": "83.28%",
-    "uptimeYear": "96.24%",
+    "uptime": "96.22%",
+    "uptimeDay": "93.06%",
+    "uptimeWeek": "88.99%",
+    "uptimeMonth": "83.22%",
+    "uptimeYear": "96.22%",
     "time": 513,
     "timeDay": 137,
     "timeWeek": 180,
@@ -41,7 +41,8 @@
       "2026-06-30": 238,
       "2026-07-01": 255,
       "2026-07-02": 83,
-      "2026-07-03": 74
+      "2026-07-03": 74,
+      "2026-07-04": 26
     }
   },
   {
@@ -50,11 +51,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
     "status": "down",
-    "uptime": "96.10%",
-    "uptimeDay": "93.01%",
-    "uptimeWeek": "89.02%",
-    "uptimeMonth": "82.65%",
-    "uptimeYear": "96.10%",
+    "uptime": "96.08%",
+    "uptimeDay": "91.13%",
+    "uptimeWeek": "88.75%",
+    "uptimeMonth": "82.59%",
+    "uptimeYear": "96.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -85,7 +86,8 @@
       "2026-06-30": 236,
       "2026-07-01": 255,
       "2026-07-02": 83,
-      "2026-07-03": 100
+      "2026-07-03": 101,
+      "2026-07-04": 26
     }
   },
   {
@@ -94,11 +96,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
     "status": "down",
-    "uptime": "96.11%",
-    "uptimeDay": "93.08%",
-    "uptimeWeek": "89.06%",
-    "uptimeMonth": "82.70%",
-    "uptimeYear": "96.11%",
+    "uptime": "96.09%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "88.79%",
+    "uptimeMonth": "82.63%",
+    "uptimeYear": "96.09%",
     "time": 505,
     "timeDay": 305,
     "timeWeek": 345,
@@ -129,7 +131,8 @@
       "2026-06-30": 235,
       "2026-07-01": 254,
       "2026-07-02": 82,
-      "2026-07-03": 99
+      "2026-07-03": 100,
+      "2026-07-04": 26
     }
   }
 ]
