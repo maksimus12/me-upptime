@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "96.68%",
     "uptimeDay": "92.63%",
-    "uptimeWeek": "87.50%",
+    "uptimeWeek": "87.82%",
     "uptimeMonth": "84.87%",
     "uptimeYear": "96.68%",
     "time": 501,
     "timeDay": 129,
-    "timeWeek": 157,
+    "timeWeek": 154,
     "timeMonth": 183,
     "timeYear": 501,
     "dailyMinutesDown": {
@@ -49,12 +49,12 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
-    "uptime": "96.71%",
-    "uptimeDay": "92.61%",
-    "uptimeWeek": "87.26%",
-    "uptimeMonth": "85.04%",
-    "uptimeYear": "96.71%",
+    "status": "up",
+    "uptime": "96.68%",
+    "uptimeDay": "87.35%",
+    "uptimeWeek": "86.83%",
+    "uptimeMonth": "84.86%",
+    "uptimeYear": "96.68%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -86,7 +86,7 @@
       "2026-07-04": 320,
       "2026-07-05": 236,
       "2026-07-06": 105,
-      "2026-07-07": 1
+      "2026-07-07": 76
     }
   },
   {
@@ -94,17 +94,17 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
-    "uptime": "96.72%",
-    "uptimeDay": "92.67%",
-    "uptimeWeek": "87.31%",
-    "uptimeMonth": "85.08%",
-    "uptimeYear": "96.72%",
-    "time": 501,
-    "timeDay": 500,
-    "timeWeek": 352,
-    "timeMonth": 357,
-    "timeYear": 501,
+    "status": "up",
+    "uptime": "96.69%",
+    "uptimeDay": "87.41%",
+    "uptimeWeek": "86.88%",
+    "uptimeMonth": "84.91%",
+    "uptimeYear": "96.69%",
+    "time": 502,
+    "timeDay": 622,
+    "timeWeek": 366,
+    "timeMonth": 361,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2026-06-12": 90,
       "2026-06-13": 329,
@@ -131,7 +131,7 @@
       "2026-07-04": 320,
       "2026-07-05": 236,
       "2026-07-06": 105,
-      "2026-07-07": 0
+      "2026-07-07": 76
     }
   }
 ]
