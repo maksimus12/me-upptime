@@ -8,7 +8,7 @@
     "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.82%",
-    "uptimeMonth": "86.71%",
+    "uptimeMonth": "86.78%",
     "uptimeYear": "97.26%",
     "time": 488,
     "timeDay": 0,
@@ -53,19 +53,19 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.39%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "91.07%",
-    "uptimeMonth": "87.05%",
-    "uptimeYear": "97.34%",
+    "uptimeMonth": "87.29%",
+    "uptimeYear": "97.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 388,
+      "2026-06-18": 284,
       "2026-06-19": 473,
       "2026-06-20": 480,
       "2026-06-21": 502,
@@ -92,7 +92,8 @@
       "2026-07-12": 215,
       "2026-07-13": 186,
       "2026-07-14": 174,
-      "2026-07-15": 85
+      "2026-07-15": 85,
+      "2026-07-17": 1
     }
   },
   {
@@ -100,19 +101,19 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
-    "uptime": "97.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.13%",
-    "uptimeMonth": "87.10%",
-    "uptimeYear": "97.35%",
+    "status": "down",
+    "uptime": "97.40%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "91.12%",
+    "uptimeMonth": "87.34%",
+    "uptimeYear": "97.40%",
     "time": 516,
-    "timeDay": 0,
-    "timeWeek": 770,
+    "timeDay": 81,
+    "timeWeek": 756,
     "timeMonth": 466,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2026-06-18": 384,
+      "2026-06-18": 281,
       "2026-06-19": 472,
       "2026-06-20": 478,
       "2026-06-21": 501,
@@ -139,7 +140,8 @@
       "2026-07-12": 214,
       "2026-07-13": 186,
       "2026-07-14": 174,
-      "2026-07-15": 84
+      "2026-07-15": 84,
+      "2026-07-17": 0
     }
   }
 ]
