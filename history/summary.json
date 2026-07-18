@@ -8,7 +8,7 @@
     "uptime": "97.29%",
     "uptimeDay": "98.38%",
     "uptimeWeek": "92.93%",
-    "uptimeMonth": "88.10%",
+    "uptimeMonth": "88.27%",
     "uptimeYear": "97.29%",
     "time": 487,
     "timeDay": 342,
@@ -53,19 +53,19 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "up",
-    "uptime": "97.49%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "91.76%",
-    "uptimeMonth": "87.66%",
-    "uptimeYear": "97.49%",
+    "status": "down",
+    "uptime": "97.59%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "88.12%",
+    "uptimeYear": "97.59%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 473,
+      "2026-06-19": 270,
       "2026-06-20": 480,
       "2026-06-21": 502,
       "2026-06-22": 242,
@@ -93,7 +93,7 @@
       "2026-07-14": 174,
       "2026-07-15": 85,
       "2026-07-17": 68,
-      "2026-07-18": 55
+      "2026-07-18": 56
     }
   },
   {
@@ -101,16 +101,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
-    "uptime": "97.50%",
-    "uptimeDay": "94.55%",
-    "uptimeWeek": "91.86%",
-    "uptimeMonth": "87.72%",
-    "uptimeYear": "97.50%",
+    "status": "down",
+    "uptime": "97.51%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "87.75%",
+    "uptimeYear": "97.51%",
     "time": 519,
-    "timeDay": 1054,
-    "timeWeek": 817,
-    "timeMonth": 491,
+    "timeDay": 921,
+    "timeWeek": 802,
+    "timeMonth": 489,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2026-06-19": 472,
@@ -141,7 +141,7 @@
       "2026-07-14": 174,
       "2026-07-15": 84,
       "2026-07-17": 66,
-      "2026-07-18": 50
+      "2026-07-18": 36
     }
   }
 ]
