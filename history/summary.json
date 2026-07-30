@@ -8,12 +8,12 @@
     "uptime": "98.03%",
     "uptimeDay": "93.74%",
     "uptimeWeek": "85.21%",
-    "uptimeMonth": "90.80%",
+    "uptimeMonth": "90.83%",
     "uptimeYear": "98.03%",
     "time": 486,
     "timeDay": 424,
     "timeWeek": 477,
-    "timeMonth": 283,
+    "timeMonth": 285,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2026-06-27": 100,
@@ -53,12 +53,12 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
-    "uptime": "98.13%",
-    "uptimeDay": "94.38%",
-    "uptimeWeek": "86.83%",
-    "uptimeMonth": "90.05%",
-    "uptimeYear": "98.13%",
+    "status": "up",
+    "uptime": "98.12%",
+    "uptimeDay": "92.42%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "89.99%",
+    "uptimeYear": "98.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -92,7 +92,7 @@
       "2026-07-27": 264,
       "2026-07-28": 218,
       "2026-07-29": 162,
-      "2026-07-30": 80
+      "2026-07-30": 109
     }
   },
   {
@@ -100,17 +100,17 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
-    "uptime": "98.08%",
-    "uptimeDay": "95.06%",
-    "uptimeWeek": "88.78%",
-    "uptimeMonth": "90.63%",
-    "uptimeYear": "98.08%",
-    "time": 560,
-    "timeDay": 1050,
-    "timeWeek": 1470,
-    "timeMonth": 853,
-    "timeYear": 560,
+    "status": "up",
+    "uptime": "98.07%",
+    "uptimeDay": "93.10%",
+    "uptimeWeek": "88.50%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "98.07%",
+    "time": 561,
+    "timeDay": 1106,
+    "timeWeek": 1467,
+    "timeMonth": 860,
+    "timeYear": 561,
     "dailyMinutesDown": {
       "2026-06-28": 58,
       "2026-06-29": 119,
@@ -142,7 +142,7 @@
       "2026-07-27": 222,
       "2026-07-28": 204,
       "2026-07-29": 136,
-      "2026-07-30": 71
+      "2026-07-30": 100
     }
   }
 ]
