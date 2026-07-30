@@ -4,15 +4,15 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
-    "uptime": "98.04%",
-    "uptimeDay": "94.76%",
-    "uptimeWeek": "85.03%",
-    "uptimeMonth": "90.78%",
-    "uptimeYear": "98.04%",
+    "status": "up",
+    "uptime": "98.03%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "84.67%",
+    "uptimeMonth": "90.69%",
+    "uptimeYear": "98.03%",
     "time": 486,
-    "timeDay": 475,
-    "timeWeek": 476,
+    "timeDay": 432,
+    "timeWeek": 472,
     "timeMonth": 282,
     "timeYear": 486,
     "dailyMinutesDown": {
@@ -45,7 +45,7 @@
       "2026-07-27": 294,
       "2026-07-28": 253,
       "2026-07-29": 176,
-      "2026-07-30": 54
+      "2026-07-30": 90
     }
   },
   {
@@ -53,12 +53,12 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
-    "uptime": "98.13%",
-    "uptimeDay": "95.76%",
-    "uptimeWeek": "86.70%",
-    "uptimeMonth": "90.06%",
-    "uptimeYear": "98.13%",
+    "status": "up",
+    "uptime": "98.12%",
+    "uptimeDay": "93.26%",
+    "uptimeWeek": "86.34%",
+    "uptimeMonth": "89.98%",
+    "uptimeYear": "98.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -93,7 +93,7 @@
       "2026-07-27": 264,
       "2026-07-28": 218,
       "2026-07-29": 162,
-      "2026-07-30": 44
+      "2026-07-30": 80
     }
   },
   {
@@ -101,17 +101,17 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
-    "uptime": "98.08%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "88.70%",
-    "uptimeMonth": "90.62%",
-    "uptimeYear": "98.08%",
-    "time": 559,
-    "timeDay": 1090,
-    "timeWeek": 1521,
-    "timeMonth": 845,
-    "timeYear": 559,
+    "status": "up",
+    "uptime": "98.06%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "88.34%",
+    "uptimeMonth": "90.53%",
+    "uptimeYear": "98.06%",
+    "time": 560,
+    "timeDay": 1243,
+    "timeWeek": 1525,
+    "timeMonth": 850,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2026-06-28": 92,
       "2026-06-29": 119,
@@ -143,7 +143,7 @@
       "2026-07-27": 222,
       "2026-07-28": 204,
       "2026-07-29": 136,
-      "2026-07-30": 35
+      "2026-07-30": 71
     }
   }
 ]
