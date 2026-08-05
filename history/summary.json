@@ -8,12 +8,12 @@
     "uptime": "98.13%",
     "uptimeDay": "90.20%",
     "uptimeWeek": "86.43%",
-    "uptimeMonth": "90.03%",
+    "uptimeMonth": "90.07%",
     "uptimeYear": "98.13%",
     "time": 485,
     "timeDay": 290,
     "timeWeek": 468,
-    "timeMonth": 343,
+    "timeMonth": 345,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2026-07-04": 126,
@@ -52,18 +52,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
     "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "91.54%",
-    "uptimeWeek": "87.43%",
-    "uptimeMonth": "90.16%",
-    "uptimeYear": "98.21%",
+    "uptime": "98.18%",
+    "uptimeDay": "92.33%",
+    "uptimeWeek": "87.55%",
+    "uptimeMonth": "90.01%",
+    "uptimeYear": "98.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-06": 31,
+      "2026-07-06": 105,
       "2026-07-07": 205,
       "2026-07-08": 182,
       "2026-07-09": 48,
@@ -90,7 +90,7 @@
       "2026-08-01": 221,
       "2026-08-02": 143,
       "2026-08-03": 387,
-      "2026-08-04": 121
+      "2026-08-04": 110
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
     "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "92.88%",
-    "uptimeWeek": "89.43%",
-    "uptimeMonth": "90.47%",
-    "uptimeYear": "98.19%",
+    "uptime": "98.16%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "98.16%",
     "time": 578,
     "timeDay": 1306,
     "timeWeek": 1450,
-    "timeMonth": 1055,
+    "timeMonth": 1061,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2026-07-04": 196,
+      "2026-07-04": 263,
       "2026-07-05": 236,
       "2026-07-06": 105,
       "2026-07-07": 204,
@@ -139,7 +139,7 @@
       "2026-08-01": 164,
       "2026-08-02": 88,
       "2026-08-03": 357,
-      "2026-08-04": 103
+      "2026-08-04": 96
     }
   }
 ]
