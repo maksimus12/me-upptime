@@ -4,17 +4,17 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "98.12%",
-    "uptimeDay": "88.91%",
+    "uptimeDay": "88.73%",
     "uptimeWeek": "82.34%",
     "uptimeMonth": "89.45%",
     "uptimeYear": "98.12%",
-    "time": 484,
-    "timeDay": 196,
-    "timeWeek": 445,
-    "timeMonth": 377,
-    "timeYear": 484,
+    "time": 483,
+    "timeDay": 209,
+    "timeWeek": 442,
+    "timeMonth": 376,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2026-07-10": 25,
       "2026-07-11": 51,
@@ -41,7 +41,7 @@
       "2026-08-05": 454,
       "2026-08-06": 239,
       "2026-08-07": 203,
-      "2026-08-08": 109
+      "2026-08-08": 111
     }
   },
   {
@@ -49,9 +49,9 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.21%",
-    "uptimeDay": "92.83%",
+    "uptimeDay": "92.66%",
     "uptimeWeek": "84.12%",
     "uptimeMonth": "89.95%",
     "uptimeYear": "98.21%",
@@ -86,7 +86,7 @@
       "2026-08-05": 439,
       "2026-08-06": 229,
       "2026-08-07": 163,
-      "2026-08-08": 75
+      "2026-08-08": 78
     }
   },
   {
@@ -94,16 +94,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.11%",
-    "uptimeDay": "95.28%",
-    "uptimeWeek": "86.13%",
-    "uptimeMonth": "90.27%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "86.14%",
+    "uptimeMonth": "90.26%",
     "uptimeYear": "98.11%",
     "time": 588,
-    "timeDay": 1119,
-    "timeWeek": 1291,
-    "timeMonth": 1146,
+    "timeDay": 1065,
+    "timeWeek": 1277,
+    "timeMonth": 1144,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2026-07-07": 204,
@@ -136,7 +136,7 @@
       "2026-08-05": 425,
       "2026-08-06": 220,
       "2026-08-07": 130,
-      "2026-08-08": 45
+      "2026-08-08": 48
     }
   }
 ]
