@@ -4,16 +4,16 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "92.61%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "92.60%",
     "uptimeMonth": "90.14%",
     "uptimeYear": "98.32%",
     "time": 485,
-    "timeDay": 650,
-    "timeWeek": 564,
-    "timeMonth": 471,
+    "timeDay": 604,
+    "timeWeek": 557,
+    "timeMonth": 470,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2026-07-24": 190,
@@ -47,10 +47,10 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "95.14%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "95.13%",
     "uptimeMonth": "90.36%",
     "uptimeYear": "98.36%",
     "time": 0,
@@ -86,7 +86,7 @@
       "2026-08-12": 75,
       "2026-08-13": 114,
       "2026-08-14": 133,
-      "2026-08-16": 5
+      "2026-08-16": 6
     }
   },
   {
@@ -94,16 +94,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "96.35%",
     "uptimeMonth": "91.58%",
     "uptimeYear": "98.35%",
     "time": 613,
-    "timeDay": 935,
-    "timeWeek": 1323,
-    "timeMonth": 1306,
+    "timeDay": 885,
+    "timeWeek": 1305,
+    "timeMonth": 1301,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2026-07-12": 115,
@@ -138,7 +138,7 @@
       "2026-08-12": 47,
       "2026-08-13": 78,
       "2026-08-14": 118,
-      "2026-08-16": 0
+      "2026-08-16": 1
     }
   }
 ]
