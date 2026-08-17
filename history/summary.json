@@ -6,7 +6,7 @@
     "slug": "mission-eurasia-field",
     "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "95.55%",
+    "uptimeDay": "95.51%",
     "uptimeWeek": "92.69%",
     "uptimeMonth": "90.26%",
     "uptimeYear": "98.35%",
@@ -50,8 +50,8 @@
     "slug": "mission-in-profession-landing",
     "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "95.22%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "95.21%",
     "uptimeMonth": "90.35%",
     "uptimeYear": "98.36%",
     "time": 0,
@@ -87,7 +87,7 @@
       "2026-08-13": 114,
       "2026-08-14": 133,
       "2026-08-16": 45,
-      "2026-08-17": 5
+      "2026-08-17": 6
     }
   },
   {
@@ -97,8 +97,8 @@
     "slug": "empower-landing",
     "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "96.44%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "96.43%",
     "uptimeMonth": "91.50%",
     "uptimeYear": "98.37%",
     "time": 615,
@@ -140,7 +140,7 @@
       "2026-08-13": 78,
       "2026-08-14": 118,
       "2026-08-16": 35,
-      "2026-08-17": 0
+      "2026-08-17": 1
     }
   }
 ]
