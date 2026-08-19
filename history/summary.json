@@ -4,19 +4,19 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "97.05%",
-    "uptimeWeek": "93.87%",
-    "uptimeMonth": "90.28%",
-    "uptimeYear": "98.37%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "94.01%",
+    "uptimeMonth": "90.38%",
+    "uptimeYear": "98.39%",
     "time": 484,
     "timeDay": 374,
-    "timeWeek": 494,
+    "timeWeek": 499,
     "timeMonth": 471,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2026-07-25": 253,
+      "2026-07-25": 198,
       "2026-07-26": 201,
       "2026-07-27": 294,
       "2026-07-28": 253,
@@ -40,7 +40,8 @@
       "2026-08-15": 35,
       "2026-08-16": 55,
       "2026-08-17": 41,
-      "2026-08-18": 43
+      "2026-08-18": 43,
+      "2026-08-19": 10
     }
   },
   {
@@ -48,19 +49,19 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "96.00%",
-    "uptimeMonth": "90.35%",
-    "uptimeYear": "98.38%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "90.42%",
+    "uptimeYear": "98.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 160,
+      "2026-07-21": 121,
       "2026-07-22": 92,
       "2026-07-23": 149,
       "2026-07-24": 194,
@@ -87,7 +88,8 @@
       "2026-08-14": 133,
       "2026-08-16": 45,
       "2026-08-17": 16,
-      "2026-08-18": 21
+      "2026-08-18": 21,
+      "2026-08-19": 5
     }
   },
   {
@@ -95,19 +97,19 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "97.10%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "97.09%",
     "uptimeMonth": "91.76%",
-    "uptimeYear": "98.38%",
+    "uptimeYear": "98.39%",
     "time": 616,
     "timeDay": 605,
-    "timeWeek": 1197,
+    "timeWeek": 1194,
     "timeMonth": 1284,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2026-07-12": 49,
+      "2026-07-12": 24,
       "2026-07-13": 186,
       "2026-07-14": 174,
       "2026-07-15": 84,
@@ -140,7 +142,8 @@
       "2026-08-13": 78,
       "2026-08-14": 118,
       "2026-08-16": 35,
-      "2026-08-18": 16
+      "2026-08-18": 16,
+      "2026-08-19": 0
     }
   }
 ]
