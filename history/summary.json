@@ -4,16 +4,16 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "92.81%",
-    "uptimeWeek": "94.04%",
+    "uptimeDay": "92.75%",
+    "uptimeWeek": "94.03%",
     "uptimeMonth": "91.80%",
     "uptimeYear": "98.68%",
     "time": 493,
-    "timeDay": 750,
-    "timeWeek": 491,
-    "timeMonth": 533,
+    "timeDay": 723,
+    "timeWeek": 489,
+    "timeMonth": 532,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2026-08-01": 20,
@@ -46,7 +46,7 @@
       "2026-08-29": 116,
       "2026-08-31": 34,
       "2026-09-01": 128,
-      "2026-09-02": 104
+      "2026-09-02": 105
     }
   },
   {
@@ -54,10 +54,10 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.62%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "94.45%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "94.44%",
     "uptimeMonth": "93.29%",
     "uptimeYear": "98.62%",
     "time": 0,
@@ -101,7 +101,7 @@
       "2026-08-30": 19,
       "2026-08-31": 33,
       "2026-09-01": 113,
-      "2026-09-02": 89
+      "2026-09-02": 90
     }
   },
   {
@@ -109,16 +109,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "94.82%",
+    "uptimeDay": "94.77%",
     "uptimeWeek": "95.01%",
     "uptimeMonth": "94.48%",
     "uptimeYear": "98.58%",
     "time": 724,
-    "timeDay": 1235,
-    "timeWeek": 2400,
-    "timeMonth": 1614,
+    "timeDay": 1197,
+    "timeWeek": 2375,
+    "timeMonth": 1609,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2026-07-23": 44,
@@ -157,7 +157,7 @@
       "2026-08-30": 19,
       "2026-08-31": 33,
       "2026-09-01": 86,
-      "2026-09-02": 75
+      "2026-09-02": 76
     }
   }
 ]
