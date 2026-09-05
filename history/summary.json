@@ -4,17 +4,17 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "94.14%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "94.13%",
     "uptimeMonth": "93.65%",
     "uptimeYear": "98.78%",
-    "time": 491,
-    "timeDay": 368,
-    "timeWeek": 487,
-    "timeMonth": 507,
-    "timeYear": 491,
+    "time": 490,
+    "timeDay": 361,
+    "timeWeek": 485,
+    "timeMonth": 506,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2026-08-03": 115,
       "2026-08-04": 141,
@@ -55,9 +55,9 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "99.65%",
+    "uptimeDay": "99.62%",
     "uptimeWeek": "94.92%",
     "uptimeMonth": "95.09%",
     "uptimeYear": "98.68%",
@@ -103,7 +103,7 @@
       "2026-09-02": 104,
       "2026-09-03": 49,
       "2026-09-04": 122,
-      "2026-09-05": 5
+      "2026-09-05": 6
     }
   },
   {
@@ -111,16 +111,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "95.92%",
     "uptimeMonth": "96.17%",
     "uptimeYear": "98.61%",
     "time": 730,
-    "timeDay": 849,
-    "timeWeek": 993,
-    "timeMonth": 1536,
+    "timeDay": 824,
+    "timeWeek": 988,
+    "timeMonth": 1532,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2026-07-24": 41,
@@ -161,7 +161,7 @@
       "2026-09-02": 91,
       "2026-09-03": 41,
       "2026-09-04": 83,
-      "2026-09-05": 0
+      "2026-09-05": 1
     }
   }
 ]
