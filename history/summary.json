@@ -4,16 +4,16 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "94.83%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "94.82%",
     "uptimeMonth": "94.19%",
     "uptimeYear": "98.79%",
     "time": 487,
-    "timeDay": 287,
-    "timeWeek": 405,
-    "timeMonth": 489,
+    "timeDay": 289,
+    "timeWeek": 404,
+    "timeMonth": 488,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2026-08-03": 115,
@@ -55,11 +55,11 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "99.65%",
+    "uptimeDay": "99.62%",
     "uptimeWeek": "95.75%",
-    "uptimeMonth": "95.62%",
+    "uptimeMonth": "95.61%",
     "uptimeYear": "98.68%",
     "time": 0,
     "timeDay": 0,
@@ -103,7 +103,7 @@
       "2026-09-02": 104,
       "2026-09-03": 49,
       "2026-09-04": 122,
-      "2026-09-06": 5
+      "2026-09-06": 6
     }
   },
   {
@@ -111,16 +111,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.62%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "96.70%",
     "uptimeMonth": "96.67%",
     "uptimeYear": "98.62%",
     "time": 728,
-    "timeDay": 584,
-    "timeWeek": 906,
-    "timeMonth": 1453,
+    "timeDay": 619,
+    "timeWeek": 910,
+    "timeMonth": 1452,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2026-07-24": 41,
@@ -161,7 +161,7 @@
       "2026-09-02": 91,
       "2026-09-03": 41,
       "2026-09-04": 83,
-      "2026-09-06": 0
+      "2026-09-06": 1
     }
   }
 ]
