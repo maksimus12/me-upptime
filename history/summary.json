@@ -4,15 +4,15 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "97.09%",
+    "uptimeDay": "97.04%",
     "uptimeWeek": "95.04%",
     "uptimeMonth": "94.52%",
     "uptimeYear": "98.80%",
     "time": 488,
-    "timeDay": 720,
-    "timeWeek": 453,
+    "timeDay": 676,
+    "timeWeek": 452,
     "timeMonth": 503,
     "timeYear": 488,
     "dailyMinutesDown": {
@@ -48,7 +48,7 @@
       "2026-09-04": 153,
       "2026-09-06": 40,
       "2026-09-07": 29,
-      "2026-09-08": 42
+      "2026-09-08": 43
     }
   },
   {
@@ -56,10 +56,10 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "95.96%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "95.97%",
     "uptimeMonth": "95.82%",
     "uptimeYear": "98.70%",
     "time": 0,
@@ -105,7 +105,7 @@
       "2026-09-04": 122,
       "2026-09-06": 35,
       "2026-09-07": 24,
-      "2026-09-08": 37
+      "2026-09-08": 38
     }
   },
   {
@@ -113,16 +113,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "97.77%",
+    "uptimeDay": "97.73%",
     "uptimeWeek": "96.79%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "98.63%",
     "time": 730,
-    "timeDay": 1146,
-    "timeWeek": 932,
-    "timeMonth": 1456,
+    "timeDay": 1086,
+    "timeWeek": 929,
+    "timeMonth": 1453,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2026-07-25": 136,
@@ -164,7 +164,7 @@
       "2026-09-04": 83,
       "2026-09-06": 30,
       "2026-09-07": 19,
-      "2026-09-08": 32
+      "2026-09-08": 33
     }
   }
 ]
