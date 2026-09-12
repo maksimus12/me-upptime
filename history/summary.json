@@ -4,16 +4,16 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "92.82%",
-    "uptimeWeek": "96.95%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "96.94%",
     "uptimeMonth": "95.04%",
     "uptimeYear": "99.00%",
     "time": 482,
-    "timeDay": 180,
-    "timeWeek": 335,
-    "timeMonth": 470,
+    "timeDay": 187,
+    "timeWeek": 334,
+    "timeMonth": 469,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2026-08-06": 116,
@@ -57,9 +57,9 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "93.52%",
+    "uptimeDay": "93.48%",
     "uptimeWeek": "97.34%",
     "uptimeMonth": "96.14%",
     "uptimeYear": "98.80%",
@@ -107,7 +107,7 @@
       "2026-09-08": 52,
       "2026-09-10": 47,
       "2026-09-11": 16,
-      "2026-09-12": 93
+      "2026-09-12": 94
     }
   },
   {
@@ -115,16 +115,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "96.90%",
+    "uptimeDay": "94.19%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "96.89%",
     "uptimeYear": "98.71%",
     "time": 731,
-    "timeDay": 570,
-    "timeWeek": 754,
-    "timeMonth": 1346,
+    "timeDay": 564,
+    "timeWeek": 751,
+    "timeMonth": 1343,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2026-07-27": 222,
@@ -167,7 +167,7 @@
       "2026-09-08": 52,
       "2026-09-10": 47,
       "2026-09-11": 16,
-      "2026-09-12": 83
+      "2026-09-12": 84
     }
   }
 ]
