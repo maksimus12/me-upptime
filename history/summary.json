@@ -4,17 +4,17 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "89.50%",
-    "uptimeWeek": "95.88%",
+    "uptimeDay": "89.44%",
+    "uptimeWeek": "95.87%",
     "uptimeMonth": "95.48%",
     "uptimeYear": "99.10%",
-    "time": 469,
-    "timeDay": 306,
+    "time": 468,
+    "timeDay": 303,
     "timeWeek": 288,
     "timeMonth": 407,
-    "timeYear": 469,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2026-08-12": 107,
       "2026-08-13": 154,
@@ -50,7 +50,7 @@
       "2026-09-16": 107,
       "2026-09-18": 57,
       "2026-09-20": 35,
-      "2026-09-21": 116
+      "2026-09-21": 117
     }
   },
   {
@@ -58,10 +58,10 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "92.98%",
-    "uptimeWeek": "96.97%",
+    "uptimeDay": "92.93%",
+    "uptimeWeek": "96.96%",
     "uptimeMonth": "96.28%",
     "uptimeYear": "98.96%",
     "time": 0,
@@ -110,7 +110,7 @@
       "2026-09-15": 66,
       "2026-09-16": 102,
       "2026-09-18": 36,
-      "2026-09-21": 101
+      "2026-09-21": 102
     }
   },
   {
@@ -118,16 +118,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "94.98%",
+    "uptimeDay": "94.94%",
     "uptimeWeek": "97.62%",
     "uptimeMonth": "96.92%",
     "uptimeYear": "98.85%",
     "time": 732,
-    "timeDay": 809,
-    "timeWeek": 766,
-    "timeMonth": 1192,
+    "timeDay": 794,
+    "timeWeek": 764,
+    "timeMonth": 1191,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2026-07-30": 29,
@@ -173,7 +173,7 @@
       "2026-09-15": 51,
       "2026-09-16": 98,
       "2026-09-18": 20,
-      "2026-09-21": 72
+      "2026-09-21": 73
     }
   }
 ]
