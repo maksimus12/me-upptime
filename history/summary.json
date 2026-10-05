@@ -4,15 +4,15 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "97.72%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "97.71%",
     "uptimeMonth": "96.70%",
     "uptimeYear": "99.16%",
     "time": 456,
-    "timeDay": 315,
-    "timeWeek": 221,
+    "timeDay": 295,
+    "timeWeek": 222,
     "timeMonth": 294,
     "timeYear": 456,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
       "2026-09-30": 34,
       "2026-10-01": 92,
       "2026-10-03": 26,
-      "2026-10-05": 10
+      "2026-10-05": 11
     }
   },
   {
@@ -62,10 +62,10 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "97.83%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "97.82%",
     "uptimeMonth": "97.19%",
     "uptimeYear": "99.19%",
     "time": 0,
@@ -117,7 +117,7 @@
       "2026-09-30": 34,
       "2026-10-01": 91,
       "2026-10-03": 26,
-      "2026-10-05": 5
+      "2026-10-05": 6
     }
   },
   {
@@ -125,16 +125,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.94%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "97.93%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "99.19%",
     "time": 734,
-    "timeDay": 2172,
-    "timeWeek": 845,
-    "timeMonth": 758,
+    "timeDay": 1604,
+    "timeWeek": 850,
+    "timeMonth": 759,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2026-08-06": 106,
@@ -184,7 +184,7 @@
       "2026-09-30": 34,
       "2026-10-01": 90,
       "2026-10-03": 26,
-      "2026-10-05": 0
+      "2026-10-05": 1
     }
   }
 ]
