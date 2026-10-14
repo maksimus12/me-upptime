@@ -6,17 +6,17 @@
     "slug": "mission-eurasia-field",
     "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "96.97%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "97.28%",
     "uptimeMonth": "96.74%",
     "uptimeYear": "99.19%",
     "time": 456,
-    "timeDay": 346,
-    "timeWeek": 475,
-    "timeMonth": 306,
+    "timeDay": 440,
+    "timeWeek": 485,
+    "timeMonth": 307,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2026-08-25": 43,
+      "2026-08-25": 22,
       "2026-08-26": 113,
       "2026-08-27": 191,
       "2026-08-29": 116,
@@ -55,7 +55,7 @@
       "2026-10-11": 24,
       "2026-10-12": 63,
       "2026-10-13": 46,
-      "2026-10-14": 1
+      "2026-10-14": 32
     }
   },
   {
@@ -65,9 +65,9 @@
     "slug": "mission-in-profession-landing",
     "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "97.20%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "97.19%",
     "uptimeYear": "99.21%",
     "time": 0,
     "timeDay": 0,
@@ -75,7 +75,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 16,
       "2026-08-18": 21,
       "2026-08-19": 46,
       "2026-08-20": 27,
@@ -122,7 +121,7 @@
       "2026-10-11": 24,
       "2026-10-12": 58,
       "2026-10-13": 46,
-      "2026-10-14": 0
+      "2026-10-14": 27
     }
   },
   {
@@ -132,17 +131,16 @@
     "slug": "empower-landing",
     "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "97.47%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.24%",
     "time": 742,
-    "timeDay": 594,
-    "timeWeek": 1155,
-    "timeMonth": 821,
+    "timeDay": 792,
+    "timeWeek": 1182,
+    "timeMonth": 824,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2026-08-11": 19,
       "2026-08-12": 47,
       "2026-08-13": 78,
       "2026-08-14": 118,
@@ -191,7 +189,7 @@
       "2026-10-11": 24,
       "2026-10-12": 53,
       "2026-10-13": 46,
-      "2026-10-14": 0
+      "2026-10-14": 23
     }
   }
 ]
