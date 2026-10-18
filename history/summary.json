@@ -4,15 +4,15 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "98.13%",
+    "uptimeDay": "98.09%",
     "uptimeWeek": "97.66%",
     "uptimeMonth": "97.16%",
     "uptimeYear": "99.20%",
     "time": 456,
-    "timeDay": 872,
-    "timeWeek": 562,
+    "timeDay": 801,
+    "timeWeek": 556,
     "timeMonth": 342,
     "timeYear": 456,
     "dailyMinutesDown": {
@@ -57,7 +57,7 @@
       "2026-10-14": 33,
       "2026-10-15": 49,
       "2026-10-16": 17,
-      "2026-10-18": 27
+      "2026-10-18": 28
     }
   },
   {
@@ -65,10 +65,10 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "97.77%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "97.76%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "99.22%",
     "time": 0,
@@ -123,7 +123,7 @@
       "2026-10-14": 32,
       "2026-10-15": 49,
       "2026-10-16": 17,
-      "2026-10-18": 22
+      "2026-10-18": 23
     }
   },
   {
@@ -131,15 +131,15 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "97.88%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "97.67%",
     "uptimeYear": "99.25%",
     "time": 745,
-    "timeDay": 1227,
-    "timeWeek": 1017,
+    "timeDay": 1177,
+    "timeWeek": 1012,
     "timeMonth": 854,
     "timeYear": 745,
     "dailyMinutesDown": {
@@ -193,7 +193,7 @@
       "2026-10-14": 32,
       "2026-10-15": 49,
       "2026-10-16": 17,
-      "2026-10-18": 17
+      "2026-10-18": 18
     }
   }
 ]
