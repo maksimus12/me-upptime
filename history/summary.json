@@ -4,19 +4,19 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "99.28%",
     "time": 455,
     "timeDay": 488,
     "timeWeek": 411,
     "timeMonth": 378,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2026-09-01": 69,
+      "2026-09-01": 47,
       "2026-09-02": 137,
       "2026-09-03": 59,
       "2026-09-04": 153,
@@ -59,7 +59,8 @@
       "2026-10-22": 22,
       "2026-10-23": 48,
       "2026-10-24": 119,
-      "2026-10-25": 24
+      "2026-10-25": 24,
+      "2026-10-27": 10
     }
   },
   {
@@ -67,11 +68,11 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "97.91%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "99.24%",
     "time": 685,
     "timeDay": 2105,
@@ -79,7 +80,7 @@
     "timeMonth": 918,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2026-08-25": 33,
+      "2026-08-25": 17,
       "2026-08-26": 82,
       "2026-08-27": 186,
       "2026-08-29": 93,
@@ -127,7 +128,8 @@
       "2026-10-22": 17,
       "2026-10-23": 26,
       "2026-10-24": 99,
-      "2026-10-25": 24
+      "2026-10-25": 24,
+      "2026-10-27": 5
     }
   },
   {
@@ -135,19 +137,18 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.40%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.39%",
     "uptimeMonth": "98.05%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 751,
     "timeDay": 1806,
     "timeWeek": 1019,
     "timeMonth": 956,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2026-08-14": 18,
       "2026-08-16": 35,
       "2026-08-18": 16,
       "2026-08-19": 41,
@@ -201,7 +202,8 @@
       "2026-10-21": 18,
       "2026-10-23": 21,
       "2026-10-24": 99,
-      "2026-10-25": 24
+      "2026-10-25": 24,
+      "2026-10-27": 0
     }
   }
 ]
