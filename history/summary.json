@@ -6,9 +6,9 @@
     "slug": "mission-eurasia-field",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "97.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "97.65%",
     "uptimeYear": "99.28%",
     "time": 454,
     "timeDay": 234,
@@ -16,6 +16,7 @@
     "timeMonth": 379,
     "timeYear": 454,
     "dailyMinutesDown": {
+      "2026-09-01": 25,
       "2026-09-02": 137,
       "2026-09-03": 59,
       "2026-09-04": 153,
@@ -59,8 +60,7 @@
       "2026-10-23": 48,
       "2026-10-24": 119,
       "2026-10-25": 24,
-      "2026-10-27": 47,
-      "2026-10-28": 11
+      "2026-10-27": 47
     }
   },
   {
@@ -69,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "97.87%",
-    "uptimeYear": "99.25%",
+    "uptime": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "99.24%",
     "time": 687,
     "timeDay": 969,
     "timeWeek": 1080,
     "timeMonth": 940,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2026-08-26": 62,
+      "2026-08-26": 82,
       "2026-08-27": 186,
       "2026-08-29": 93,
       "2026-08-30": 19,
@@ -128,8 +128,7 @@
       "2026-10-23": 26,
       "2026-10-24": 99,
       "2026-10-25": 24,
-      "2026-10-27": 37,
-      "2026-10-28": 6
+      "2026-10-27": 37
     }
   },
   {
@@ -139,9 +138,9 @@
     "slug": "empower-landing",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "98.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.07%",
     "uptimeYear": "99.27%",
     "time": 752,
     "timeDay": 795,
@@ -149,7 +148,7 @@
     "timeMonth": 980,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2026-08-16": 16,
+      "2026-08-16": 35,
       "2026-08-18": 16,
       "2026-08-19": 41,
       "2026-08-20": 22,
@@ -203,8 +202,7 @@
       "2026-10-23": 21,
       "2026-10-24": 99,
       "2026-10-25": 24,
-      "2026-10-27": 16,
-      "2026-10-28": 1
+      "2026-10-27": 16
     }
   }
 ]
