@@ -4,10 +4,10 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "97.78%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "97.79%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.29%",
     "time": 453,
@@ -61,7 +61,7 @@
       "2026-10-25": 24,
       "2026-10-27": 47,
       "2026-10-29": 23,
-      "2026-10-30": 11
+      "2026-10-30": 10
     }
   },
   {
@@ -69,11 +69,11 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.04%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "99.26%",
     "time": 689,
     "timeDay": 1644,
@@ -131,7 +131,7 @@
       "2026-10-25": 24,
       "2026-10-27": 37,
       "2026-10-29": 18,
-      "2026-10-30": 6
+      "2026-10-30": 5
     }
   },
   {
@@ -139,10 +139,10 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "98.61%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.62%",
     "uptimeMonth": "98.27%",
     "uptimeYear": "99.28%",
     "time": 753,
@@ -206,7 +206,7 @@
       "2026-10-24": 99,
       "2026-10-25": 24,
       "2026-10-27": 16,
-      "2026-10-30": 1
+      "2026-10-30": 0
     }
   }
 ]
