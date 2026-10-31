@@ -4,14 +4,14 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "98.79%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "98.78%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.30%",
     "time": 453,
-    "timeDay": 284,
+    "timeDay": 294,
     "timeWeek": 350,
     "timeMonth": 380,
     "timeYear": 453,
@@ -61,7 +61,7 @@
       "2026-10-25": 24,
       "2026-10-27": 47,
       "2026-10-29": 23,
-      "2026-10-31": 10
+      "2026-10-31": 11
     }
   },
   {
@@ -69,16 +69,16 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "99.64%",
+    "uptimeDay": "99.59%",
     "uptimeWeek": "98.98%",
-    "uptimeMonth": "98.05%",
+    "uptimeMonth": "98.04%",
     "uptimeYear": "99.26%",
     "time": 690,
-    "timeDay": 1097,
-    "timeWeek": 1113,
-    "timeMonth": 963,
+    "timeDay": 994,
+    "timeWeek": 1097,
+    "timeMonth": 961,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2026-08-26": 26,
@@ -131,7 +131,7 @@
       "2026-10-25": 24,
       "2026-10-27": 37,
       "2026-10-29": 18,
-      "2026-10-31": 5
+      "2026-10-31": 6
     }
   },
   {
@@ -139,16 +139,16 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.43%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "98.27%",
     "uptimeYear": "99.28%",
     "time": 753,
-    "timeDay": 645,
-    "timeWeek": 969,
-    "timeMonth": 972,
+    "timeDay": 633,
+    "timeWeek": 958,
+    "timeMonth": 970,
     "timeYear": 753,
     "dailyMinutesDown": {
       "2026-08-16": 16,
@@ -206,7 +206,7 @@
       "2026-10-24": 99,
       "2026-10-25": 24,
       "2026-10-27": 16,
-      "2026-10-31": 0
+      "2026-10-31": 1
     }
   }
 ]
