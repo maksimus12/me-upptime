@@ -8,11 +8,11 @@
     "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.89%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "99.32%",
     "time": 451,
-    "timeDay": 298,
-    "timeWeek": 355,
+    "timeDay": 336,
+    "timeWeek": 293,
     "timeMonth": 389,
     "timeYear": 451,
     "dailyMinutesDown": {
@@ -70,17 +70,17 @@
     "slug": "mission-in-profession-landing",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.29%",
     "time": 704,
-    "timeDay": 5002,
-    "timeWeek": 2076,
+    "timeDay": 5949,
+    "timeWeek": 2221,
     "timeMonth": 1136,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2026-08-26": 26,
+      "2026-08-26": 62,
       "2026-08-27": 186,
       "2026-08-29": 93,
       "2026-08-30": 19,
@@ -129,8 +129,7 @@
       "2026-10-24": 99,
       "2026-10-25": 24,
       "2026-10-27": 37,
-      "2026-10-29": 18,
-      "2026-11-13": 10
+      "2026-10-29": 18
     }
   },
   {
@@ -140,17 +139,17 @@
     "slug": "empower-landing",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.31%",
     "time": 754,
-    "timeDay": 799,
-    "timeWeek": 767,
-    "timeMonth": 921,
+    "timeDay": 675,
+    "timeWeek": 727,
+    "timeMonth": 924,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2026-08-16": 16,
+      "2026-08-16": 35,
       "2026-08-18": 16,
       "2026-08-19": 41,
       "2026-08-20": 22,
@@ -204,8 +203,7 @@
       "2026-10-23": 21,
       "2026-10-24": 99,
       "2026-10-25": 24,
-      "2026-10-27": 16,
-      "2026-11-13": 9
+      "2026-10-27": 16
     }
   }
 ]
