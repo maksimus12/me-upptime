@@ -4,16 +4,16 @@
     "url": "https://missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/missioneurasiafield.org.ico",
     "slug": "mission-eurasia-field",
-    "status": "down",
+    "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.36%",
     "time": 451,
-    "timeDay": 339,
-    "timeWeek": 508,
-    "timeMonth": 377,
+    "timeDay": 416,
+    "timeWeek": 507,
+    "timeMonth": 378,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2026-09-02": 70,
@@ -62,7 +62,7 @@
       "2026-10-27": 47,
       "2026-10-29": 23,
       "2026-11-16": 19,
-      "2026-11-27": 10
+      "2026-11-27": 11
     }
   },
   {
@@ -70,16 +70,16 @@
     "url": "https://pro.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.missioneurasiafield.org.ico",
     "slug": "mission-in-profession-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.33%",
     "time": 707,
-    "timeDay": 565,
-    "timeWeek": 878,
-    "timeMonth": 1205,
+    "timeDay": 620,
+    "timeWeek": 867,
+    "timeMonth": 1199,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2026-08-26": 26,
@@ -132,7 +132,7 @@
       "2026-10-25": 24,
       "2026-10-27": 37,
       "2026-10-29": 18,
-      "2026-11-27": 5
+      "2026-11-27": 6
     }
   },
   {
@@ -140,15 +140,15 @@
     "url": "https://empower.missioneurasiafield.org/",
     "icon": "https://icons.duckduckgo.com/ip3/empower.missioneurasiafield.org.ico",
     "slug": "empower-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.92%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 753,
-    "timeDay": 481,
-    "timeWeek": 683,
+    "timeDay": 644,
+    "timeWeek": 690,
     "timeMonth": 804,
     "timeYear": 753,
     "dailyMinutesDown": {
