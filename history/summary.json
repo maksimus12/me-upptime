@@ -6,17 +6,17 @@
     "slug": "mission-eurasia-field",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.36%",
     "time": 451,
-    "timeDay": 416,
-    "timeWeek": 507,
-    "timeMonth": 378,
+    "timeDay": 408,
+    "timeWeek": 528,
+    "timeMonth": 376,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2026-09-02": 70,
+      "2026-09-02": 94,
       "2026-09-03": 59,
       "2026-09-04": 153,
       "2026-09-06": 40,
@@ -61,8 +61,7 @@
       "2026-10-25": 24,
       "2026-10-27": 47,
       "2026-10-29": 23,
-      "2026-11-16": 19,
-      "2026-11-27": 11
+      "2026-11-16": 19
     }
   },
   {
@@ -72,17 +71,17 @@
     "slug": "mission-in-profession-landing",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.33%",
     "time": 707,
-    "timeDay": 620,
-    "timeWeek": 867,
-    "timeMonth": 1199,
+    "timeDay": 607,
+    "timeWeek": 820,
+    "timeMonth": 1182,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2026-08-26": 26,
+      "2026-08-26": 62,
       "2026-08-27": 186,
       "2026-08-29": 93,
       "2026-08-30": 19,
@@ -131,8 +130,7 @@
       "2026-10-24": 99,
       "2026-10-25": 24,
       "2026-10-27": 37,
-      "2026-10-29": 18,
-      "2026-11-27": 6
+      "2026-10-29": 18
     }
   },
   {
@@ -142,17 +140,17 @@
     "slug": "empower-landing",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 753,
-    "timeDay": 644,
-    "timeWeek": 690,
-    "timeMonth": 804,
+    "timeDay": 691,
+    "timeWeek": 680,
+    "timeMonth": 781,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2026-08-16": 16,
+      "2026-08-16": 35,
       "2026-08-18": 16,
       "2026-08-19": 41,
       "2026-08-20": 22,
@@ -206,8 +204,7 @@
       "2026-10-23": 21,
       "2026-10-24": 99,
       "2026-10-25": 24,
-      "2026-10-27": 16,
-      "2026-11-27": 1
+      "2026-10-27": 16
     }
   }
 ]
